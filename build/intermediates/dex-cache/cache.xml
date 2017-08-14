@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/.android/build-cache/5ee524f61774e7a37fc0d4dafaa40459c802485c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7033cf2bfd41ffd91877c1c8d8f1a87fea583562/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/.android/build-cache/6b0c48f39cdc7af5d18e0815ddb363005264ba82/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e4549f05aac7f428906beb460f30a4fe369ad2cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/.android/build-cache/ad4801f6bea47dfe61d9c877097db9c66f4edd43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3b034968c02250ba17c4895eda14b657ba24fb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/.android/build-cache/b449263c9d7cfc40c856d39c7aee82aae3d5d7f9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1176f468ac33cc7d3dbf6083e8f3c39814ce31dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/.android/build-cache/f9a9e4cdaf3942e313152107a29f3f4af9c40e23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3aaa30f3aa1d2f7f2a6023008092074e1ef4fe29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/.android/build-cache/8a9dbcc02942b8d828a619c0e9ea3dae012a8640/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6bb42faf18a48d3501d186ff934f9287c501857c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/.android/build-cache/4532c4749833ee96de63b1e75de8d98cefa5cbf6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f405dc18ab132c8b97acd1cc78d88e9d82b0ed7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/.android/build-cache/4e8cb49d656b25d400fe97f988718369f3db2386/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efc1268ab19cdb44366ed501c4b5796f7017ea17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/.android/build-cache/ca85b2b6fe575e9b3016ffc10f90d0db4321a5c4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c9f85d7495ecbc362ba8ea76cfb9679b7c55704e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e124c381260e0623c9f2de14fef7409e3515b5c2">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_28040c2198a0461ffcd26b8e092dd5bf1d56f553/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_1d99b164ed21025c23d47ba8701b36f8564ba400/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/.android/build-cache/4234d29b02320320c024eccf6140dae6eab3db7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71572678bdd9684aea02dde4b44e8997a23f0a37/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/.android/build-cache/2c2a22d55d3fc6b3ba681c38ee8e1a304f7b5f9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_740aac853cdc765a00152969fc8099d9237373d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/.android/build-cache/014f8b54220ca374e809ee32da1526e9960f339b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f68e0499fbe2a138f638b6290b063ac0e0282494/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4784ff8fb768de7b74f712abd9ad288105eee5f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/truonglx/.android/build-cache/fa2ae2f59c04f0406a711f3b2c8e376c0e515cdb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/truonglx/Dropbox/ProjectAndroid/TemplateAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ffc6e547d77cea68c51be083f7f3c866009335c5/classes.dex" />
+    </item>
+
+</items>

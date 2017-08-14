@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appBarLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/AppTheme.AppBarOverlay">
+
+        <RelativeLayout
+            android:id="@+id/appbarlayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/white">
+
+            <android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/colorPrimary"
+                android:elevation="@dimen/toolbar_elevation">
+
+            </android.support.v7.widget.Toolbar>
+        </RelativeLayout>
+    </android.support.design.widget.AppBarLayout>
+    <template.truonglx.com.templateandroid.navigationbar.BottomNavigation
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/white"
+        android:elevation="6dp"
+        app:mode="phone">
+
+        <template.truonglx.com.templateandroid.navigationbar.TabItem
+            android:id="@+id/tab_tranfers"
+            style="@style/BottomNavigationTabStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:tab_icon="@drawable/ic_homepage"
+            app:tab_text="@string/bottom_tranfer"
+            app:unselected_tab_icon="@drawable/ic_homepage_unselected" />
+
+
+        <template.truonglx.com.templateandroid.navigationbar.TabItem
+            android:id="@+id/tab_tools"
+            style="@style/BottomNavigationTabStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:tab_icon="@drawable/ic_library"
+            app:tab_text="@string/bottom_tools"
+            app:unselected_tab_icon="@drawable/ic_library_unselected" />
+
+        <template.truonglx.com.templateandroid.navigationbar.TabItem
+            android:id="@+id/tab_me"
+            style="@style/BottomNavigationTabStyle"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            app:tab_icon="@drawable/ic_star_bottom"
+            app:tab_text="@string/bottom_me"
+            app:unselected_tab_icon="@drawable/ic_star_bottom_unselected" />
+
+    </template.truonglx.com.templateandroid.navigationbar.BottomNavigation>
+    <FrameLayout
+        android:id="@+id/frame_fragment_containers"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/bottom_navigation"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/appBarLayout" />
+
+</RelativeLayout>
